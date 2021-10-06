@@ -3,6 +3,8 @@ layout: default
 title: Home
 ---
 
+# Integrated Simulation at the Exascale: coupling, synthesis and performance
+
 Excalibur-Coupling is a Cross-Cutting Excalibur Project funded by [UKRI](https://ukri.org)
 and is a collaboration between researchers and developers at the
 following UK institutions: University of Cambridge,
