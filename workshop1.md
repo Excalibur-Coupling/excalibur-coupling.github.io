@@ -17,7 +17,7 @@ This workshop represents the first in a new series curated by the project and wi
 - 14:15 - 14:30: Break
 - 14:30 - 15:00: [Multiscale Universal Interface (MUI)](https://mxui.github.io/) (Dr Stephen Longshaw; UKRI-STFC)
 - 15:00 - 15:30: [Multiscale Coupling Library and Environment (MUSCLE)](https://muscle3.readthedocs.io/en/latest/) (Prof. Peter Coveney; University College London)
-- 15:30 - 16:00: [Coupling With Interpolation Parallel Interface (CWIPI)](http://sites.onera.fr/cwipi) (TBC)
+- 15:30 - 16:00: [Coupling With Interpolation Parallel Interface (CWIPI)](http://sites.onera.fr/cwipi) (Bastien Andrieu; ONERA)
 - 16:00 - 16:30: Round-up discussion and close
 
 Please [register](https://www.eventbrite.co.uk/e/excalibur-workshop-on-state-of-the-art-in-coupling-software-tickets-186835609337) to receive joining information via email.
