@@ -1,6 +1,6 @@
 # Setup
 title:               Excalibur-Coupling
-tagline:             'Exascale Software'
+tagline:             ''
 description:         'A Cross-Cutting Excalibur Project'
 url:                 https://excalibur-coupling.github.io
 baseurl:             ''
