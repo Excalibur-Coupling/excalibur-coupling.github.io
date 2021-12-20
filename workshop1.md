@@ -11,7 +11,12 @@ This workshop represents the first in a new series curated by the project and wi
 
 #### Agenda
 
-- 13:00 - 13:15: Opening statement and project overview (Prof. Garth Wells; University of Cambridge) [slides](workshop1_content/slides/G-Wells_ISE_Introduction.pdf) [recording](https://youtu.be/GIfKMkdU_6c)
+- 13:00 - 13:15: Opening statement and project overview (Prof. Garth Wells; University of Cambridge) [slides](workshop1_content/slides/G-Wells_ISE_Introduction.pdf) 
+
+<div class="iframeVideo">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/GIfKMkdU_6c" frameborder="0" allowfullscreen></iframe>
+</div>
+
 - 13:15 - 13:45: [preCICE](https://precice.org) (Prof. Benjamin Uekermann; University of Stuttgart) [slides](workshop1_content/slides/B-Uekermann_ISE_preCICE.pdf) [recording](https://youtu.be/G52jGmPEDZI)
 - 13:45 - 14:15: [Point Location Exchange (PLE)](https://www.code-saturne.org/cms/web/documentation/overview/coupling) (Yvan Fournier; EDF) [slides](workshop1_content/slides/Y-Fournier_PLE.pdf) [recording](https://youtu.be/d1KgLu2NIHY)
 - 14:15 - 14:30: Break
