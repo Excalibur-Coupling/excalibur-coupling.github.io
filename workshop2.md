@@ -13,12 +13,13 @@ FEM/BEM).
 
 #### Speakers
 
+- Silvia Bertoluzza
 - Erik Burman
 - Miguel Fernandez
-- Silvia Bertoluzza
+- Christophe Geuzaine
+- Mats Larson
 - Frederic Nataf
 - Olaf Steinbach
-- Christophe Geuzaine
 
 #### Registration
 
