@@ -12,19 +12,19 @@ FEM/BEM).
 
 ### Day 1: 22 November
 
-13.00-13.15 Introduction
-13.15-14.15 Silvia Bertoluzza
-14.15-15.15 Olaf Steinbach
-15.15-15.30 Break
-15.30-16.30 Christophe Geuzaine
+- 13.00-13.15 Introduction
+- 13.15-14.15 Silvia Bertoluzza
+- 14.15-15.15 Olaf Steinbach
+- 15.15-15.30 Break
+- 15.30-16.30 Christophe Geuzaine
 
 ### Day 2: 23 November
 
-13.00-13.15 Introduction
-13.15-14.15 Frederic Nataf
-14.15-15.15 Miguel Fernandez
-15.15-15.30 Break
-15.30-16.30 Mats Larson
+- 13.00-13.15 Introduction
+- 13.15-14.15 Frederic Nataf
+- 14.15-15.15 Miguel Fernandez
+- 15.15-15.30 Break
+- 15.30-16.30 Mats Larson
 
 All times in GMT
 
