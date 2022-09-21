@@ -30,4 +30,4 @@ All times in GMT
 
 #### Registration
 
-Registration will be required to access the Zoom Webinar
+[Registration](https://www.eventbrite.co.uk/e/online-workshop-mathematical-theory-of-coupling-methods-for-pdes-tickets-420629453017) is required to access the Zoom Webinar
