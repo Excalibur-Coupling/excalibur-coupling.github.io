@@ -16,12 +16,13 @@ FEM/BEM).
 - 13.15-14.15 Silvia Bertoluzza
 - 14.15-15.15 Olaf Steinbach
 - 15.15-15.30 Break
-- 15.30-16.30 Christophe Geuzaine
+- 15.30-16.30 Christophe Geuzaine: _Weak FEM-BEM coupling for the time-harmonic Maxwell equations_
+
 
 ### Day 2: 23 November
 
 - 13.00-13.15 Introduction
-- 13.15-14.15 Frederic Nataf
+- 13.15-14.15 Frederic Nataf: _Adaptive Coarse Space for Saddle Point problem_
 - 14.15-15.15 Miguel Fernandez
 - 15.15-15.30 Break
 - 15.30-16.30 Mats Larson
