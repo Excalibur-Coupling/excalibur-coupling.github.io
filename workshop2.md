@@ -13,7 +13,7 @@ FEM/BEM).
 ### Day 1: 22 November
 
 - 13.00-13.15 Introduction
-- 13.15-14.15 Silvia Bertoluzza
+- 13.15-14.15 Silvia Bertoluzza: [_Coupling black box solvers under minimal assumptions_](#silvia-bertoluzza-coupling-black-box-solvers-under-minimal-assumptions)
 - 14.15-15.15 Olaf Steinbach
 - 15.15-15.30 Break
 - 15.30-16.30 Christophe Geuzaine: [_Weak FEM-BEM coupling for the time-harmonic Maxwell equations_](#chrisophe-geuzaine-weak-fem-bem-coupling-for-the-time-harmonic-maxwell-equations)
@@ -92,3 +92,14 @@ effect). Over the last fifteen years, the development and analysis of
 efficient partitioned methods for these systems has been a very active
 field of research. In this talk, we will give an overview of some of
 these techniques, with particular emphasis on time splitting schemes.
+
+#### Silvia Bertoluzza: _Coupling black box solvers under minimal assumptions_
+We discuss, in a general (abstract) framework, and with concrete
+examples, the numerical solution of a global problem formulated,
+already at the continuous level, as a system of weakly coupled local
+problems.
+With an approach similar to the one underlying the FETI domain
+decomposition method and treating the local numerical solvers as
+black-boxes, we discuss sufficient conditions ensuring stability and
+accuracy of the discrete coupled problem, for which we also discuss a
+preconditioning strategy (also inspired by FETI).
