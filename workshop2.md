@@ -14,7 +14,7 @@ FEM/BEM).
 
 - 13.00-13.15 Introduction
 - 13.15-14.15 Silvia Bertoluzza: [_Coupling black box solvers under minimal assumptions_](#silvia-bertoluzza-coupling-black-box-solvers-under-minimal-assumptions)
-- 14.15-15.15 Olaf Steinbach
+- 14.15-15.15 Olaf Steinbach: [_Space-time finite and boundary element methods in electromagnetic simulations_](#olaf-steinbach-space-time-finite-and-boundary-element-methods-in-electromagnetic-simulations)
 - 15.15-15.30 Break
 - 15.30-16.30 Christophe Geuzaine: [_Weak FEM-BEM coupling for the time-harmonic Maxwell equations_](#chrisophe-geuzaine-weak-fem-bem-coupling-for-the-time-harmonic-maxwell-equations)
 
@@ -103,3 +103,13 @@ decomposition method and treating the local numerical solvers as
 black-boxes, we discuss sufficient conditions ensuring stability and
 accuracy of the discrete coupled problem, for which we also discuss a
 preconditioning strategy (also inspired by FETI).
+
+#### Olaf Steinbach: _Space-time finite and boundary element methods in electromagnetic simulations_
+For the eddy current approximation of the Maxwell system to
+model an electric motor results in an elliptic-parabolic
+interface problem, we introduce and analyze a space-time
+variational formulation, and its space-time finite element
+discretization. In addition we also discuss the coupling with
+boundary elements to model the Laplace equation in the air
+domain. For this we recall some results on the non-symmetric
+coupling of finite and boundary element methods.
