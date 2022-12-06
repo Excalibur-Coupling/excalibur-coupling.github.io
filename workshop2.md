@@ -13,19 +13,19 @@ FEM/BEM).
 ### Day 1: 22 November
 
 - 13.00-13.15 Introduction
-- 13.15-14.15 Silvia Bertoluzza: [_Coupling black box solvers under minimal assumptions_](#silvia-bertoluzza-coupling-black-box-solvers-under-minimal-assumptions)
-- 14.15-15.15 Olaf Steinbach: [_Space-time finite and boundary element methods in electromagnetic simulations_](#olaf-steinbach-space-time-finite-and-boundary-element-methods-in-electromagnetic-simulations)
+- 13.15-14.15 Silvia Bertoluzza: [_Coupling black box solvers under minimal assumptions_](#silvia-bertoluzza-coupling-black-box-solvers-under-minimal-assumptions) [recording](https://youtu.be/zWtJidU7GFs)
+- 14.15-15.15 Olaf Steinbach: [_Space-time finite and boundary element methods in electromagnetic simulations_](#olaf-steinbach-space-time-finite-and-boundary-element-methods-in-electromagnetic-simulations) [recording](https://youtu.be/7DjFH1UPE5M)
 - 15.15-15.30 Break
-- 15.30-16.30 Christophe Geuzaine: [_Weak FEM-BEM coupling for the time-harmonic Maxwell equations_](#chrisophe-geuzaine-weak-fem-bem-coupling-for-the-time-harmonic-maxwell-equations)
+- 15.30-16.30 Christophe Geuzaine: [_Weak FEM-BEM coupling for the time-harmonic Maxwell equations_](#chrisophe-geuzaine-weak-fem-bem-coupling-for-the-time-harmonic-maxwell-equations) [recording](https://youtu.be/WOPsp1cZH9s)
 
 
 ### Day 2: 23 November
 
 - 13.00-13.15 Introduction
-- 13.15-14.15 Frederic Nataf: [_Adaptive Coarse Space for Saddle Point problem_](#frederic-nataf-adaptive-coarse-space-for-saddle-point-problem)
-- 14.15-15.15 Miguel Fernandez: [_Time splitting schemes for incompressible fluid-structure interaction_](#miguel-fernandez-time-splitting-schemes-for-incompressible-fluid-structure-interaction)
+- 13.15-14.15 Frederic Nataf: [_Adaptive Coarse Space for Saddle Point problem_](#frederic-nataf-adaptive-coarse-space-for-saddle-point-problem) [recording](https://youtu.be/KNMSkrcTw2w)
+- 14.15-15.15 Miguel Fernandez: [_Time splitting schemes for incompressible fluid-structure interaction_](#miguel-fernandez-time-splitting-schemes-for-incompressible-fluid-structure-interaction) [recording](https://youtu.be/PEgnjM4KE50)
 - 15.15-15.30 Break
-- 15.30-16.30 Mats Larson: [_Applications of Hybridization to Domain Decomposition and Model Coupling_](#mats-larson-applications-of-hybridization-to-domain-decomposition-and-model-coupling)
+- 15.30-16.30 Mats Larson: [_Applications of Hybridization to Domain Decomposition and Model Coupling_](#mats-larson-applications-of-hybridization-to-domain-decomposition-and-model-coupling) [recording](https://youtu.be/U99a3Pf-mYQ)
 
 All times in GMT
 
