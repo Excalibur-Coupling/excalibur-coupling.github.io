@@ -3,7 +3,6 @@ layout: page
 title: Publications
 ---
 
-### Publications
 This page lists the paper outputs from the Excalibur coupling project.
 
 - M. Bosy, M. W. Scroggs, T. Betcke, E. Burman & C. D. Cooper.
